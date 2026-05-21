@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gag worst
+# VeraDemo - Blab-a-Gag worstc
 
 ### :information_source: Notice
 
